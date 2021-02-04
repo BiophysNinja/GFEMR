@@ -1,4 +1,4 @@
-# Gaussian Field Estimator with Manifold Regularization for Retinal Image Registration
+#Python Implementation of Gaussian Field Estimator with Manifold Regularization for Retinal Image Registration
 <div align=center><img src="./result_registration.png"/></div>
 
 ## Introduction
